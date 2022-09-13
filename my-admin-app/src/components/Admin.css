@@ -1,0 +1,22 @@
+.cancel{
+    transform: scale(0.9);
+    color: grey;
+}
+
+.check{
+    transform: scale(0.9);
+    color: grey;
+}
+
+.edit{
+    transform: scale(0.9);
+    color: grey;
+}
+
+.bulk{
+    background-color: palevioletred;
+    margin: 10px;
+    border-radius: 100px;
+    position: absolute;
+    left: 10px;
+}
