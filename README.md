@@ -25,9 +25,10 @@ GET
 
 Endpoint :
 https://geektrust.s3-ap-southeast-1.amazonaws.com/adminui-problem/members.json
+
 Sample Response :
                   
-                    [
+[
   {
     "id": "1",
     "name": "Aaron Miles",
